@@ -1,6 +1,6 @@
 # learn-cicd-starter (Notely)
 
-![status of tests workflow](https://github.com/mhndakbar/learn-cicd-starter/actions/runs/16538162938/workflow/badge.svg)
+![status of tests workflow](https://github.com/mhndakbar/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
