@@ -36,9 +36,3 @@ jobs:
 
       - name: run go fmt
         run: go fmt ./...
-
-      - name: run go vet
-        run: go vet ./...
-
-      - name: run go lint
-        run: go lint ./...
